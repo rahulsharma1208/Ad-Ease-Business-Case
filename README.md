@@ -4,7 +4,7 @@ A time-series forecasting case study for AdEase, an advertising infrastructure c
 
 ## Project files
 
-- `Rahul_Sharma- AdEase_Time_Series_Business_Case.ipynb`: Exploratory analysis, language-level aggregation, stationarity checks, ARIMA/SARIMA/SARIMAX/Prophet comparisons, and 30-day forecasts. Notebook outputs can be cleared to keep the repository lightweight while retaining the code and written analysis.
+- `AdEase_Time_Series_Business_Case.ipynb`: Exploratory analysis, language-level aggregation, stationarity checks, ARIMA/SARIMA/SARIMAX/Prophet comparisons, and 30-day forecasts. Notebook outputs can be cleared to keep the repository lightweight while retaining the code and written analysis.
 - `Exog_Campaign_eng`: Daily campaign and event indicator used as an external regressor for English forecasts.
 - `train_1.csv`: Required Wikipedia page-view dataset. The local copy is about 265 MB, above GitHub’s 100 MB per-file limit, so it must be stored elsewhere or added using Git LFS. Place it beside the notebook before running the analysis.
 
